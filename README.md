@@ -10,8 +10,8 @@
       <h1>>Welcome to My Website!</h1>
    </header>
    <main>
-      <p> This is a simple webpsge hosted on GitHub pages.</p>
-      <p>Heres a picture of a cute cat:</p>
+      <p> This is a simple webpage hosted on GitHub pages.</p>
+      <p>Here's a picture of a cute cat:</p>
       <img src="httpps://placekitten.com/200/300" alt=" A cute kitten">
       <p>Visit <a hred="https://github.com">GitHub</a> to learn more about coding.</p>
 </main>
